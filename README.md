@@ -17,25 +17,20 @@
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/sp_500).
+You can find the code for this project here.
+* [stock market prediction.ipynb](https://github.com/dataquestio/project-walkthroughs/tree/master/sp_500).
 
-File overview:
+## Technologies/Tools
 
-* `market_prediction.ipynb` - a Jupyter notebook that contains all of the code.
-
-# Local Setup
-
-## Installation
-
-To follow this project, please install the following locally:
-
-* JupyerLab
-* Python 3.8+
+* JupyterLab / [Google Colab](https://colab.research.google.com/)
+* Python 3.10.12
 * Python packages
-    * pandas
-    * yfinance
-    * scikit-learn
+    * pandas - `pip install pandas`
+    * yfinance - `pip install yfinance`
+    * scikit-learn - `pip install scikit-learn`
 
 ## Data
 
-We'll download all of the data during the project, using the `yfinance` package.
+You can download the S&P500 dataset used in this project here.
+* [SP500.csv](https://github.com/dataquestio/project-walkthroughs/tree/master/sp_500)
+

@@ -3,17 +3,17 @@
 ## Overview
 
 * The price of the [S&P500](https://www.investing.com/indices/us-spx-500) Stock Market Index is predicted using [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) in this project.
-* This repository contains the code and resources of this Stock Market Index Prediction project.
+* This repository contains the code and resources of this Stock Market Index price prediction project.
 
 ## Steps
 
-* Download data using the yfinance package
-* Cleaning and visualizing our stock market data
-* Setting up our target for machine learning
-* Create an initial machine learning model and estimate accuracy
-* Build a backtesting engine to more accurately measure accuracy
-* Adding additional predictors to our model
-* Improve the accuracy of the model
+* Downloading data using the yfinance package
+* Cleaning and visualizing stock market data
+* Setting up a target for machine learning
+* Creating an initial machine-learning model 
+* Building a backtesting engine to more accurately measure accuracy
+* Adding additional predictors to the model
+* Improving the accuracy of the model
 
 ## Code
 

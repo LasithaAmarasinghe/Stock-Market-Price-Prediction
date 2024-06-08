@@ -6,7 +6,7 @@
 ## Overview
 
 * The price of the [S&P500](https://www.investing.com/indices/us-spx-500) Stock Market Index is predicted using [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) in this project.
-* This repository contains the code and resources of this Stock Market Index price prediction project.
+* This repository contains all the codes and resources of this project.
 
 ## Steps
 

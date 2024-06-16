@@ -29,8 +29,14 @@ You can find the code for this project here.
 * Python 3.10.12
 * Python packages
     * pandas - `pip install pandas`
+    *  scikit-learn - `pip install scikit-learn`
     * yfinance - `pip install yfinance`
-    * scikit-learn - `pip install scikit-learn`
+
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas_-%20green?logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=FFFFFF)
+![yfinance](https://img.shields.io/badge/yfinance_-%20blue)
 
 ## Data
 
